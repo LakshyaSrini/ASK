@@ -58,7 +58,8 @@ plt.show()
 ```
 # Output Waveform
 
-![Screenshot 2025-04-19 151103](https://github.com/user-attachments/assets/bd6d4a7a-8039-4202-94a8-52b62b2a50b8)
+![ask](https://github.com/user-attachments/assets/e8bacd99-cec7-4c85-ae52-7f8a8e62f21b)
+
 
 # Results
 The binary data was successfully modulated using Amplitude Shift Keying (ASK).
