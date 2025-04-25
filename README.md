@@ -68,4 +68,6 @@ The ASK waveform was observed, where carrier presence represents '1' and absence
 
 The experiment successfully demonstrated digital-to-analog conversion using ASK.
 
-# Hardware experiment output waveform.
+# Graph.
+![WhatsApp Image 2025-04-25 at 8 33 57 PM](https://github.com/user-attachments/assets/ecf77d77-1435-42cc-ab6b-756a26ccb516)
+
